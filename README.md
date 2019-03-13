@@ -1,8 +1,8 @@
-# Hi. My name is Eduards Sizovs. 
+# Hi! 👋 
 
 <img src="https://sizovs.net/images/me.png" width="100px" />
 
-I am a software architect, [blogger](https://sizovs.net), [trainer](https://devchampions.com/training/the-principal-developer/), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
+My name is Eduards Sizovs. I am a software architect, [blogger](https://sizovs.net), [trainer](https://devchampions.com/training/the-principal-developer/), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
 
 I get a lot of questions by email. This way anyone can read the answer. 👨‍💻
 
